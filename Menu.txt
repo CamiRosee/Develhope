@@ -1,7 +1,35 @@
+
+Bienvenidos a "El pescado feliz"
+
+Este es un restaurante pescetariano.
+
+
+Menú
+
 Primeros:
 
 -Dragon roll (Sushi de gambas, arroz, aguacate y mayonesa)
 -Salmón en salsa verde
 -Gambas al ajillo
 -Ensalada de Atún
+
+Segundo Plato:
+- Atún en salsa a la portuguesa
+- Bacalao con papas arrugadas
+- Dorada a la plancha
+
+Bebidas:
+
+- Coca-Cola
+- Sprite
+- Jugo exprimido
+- Agua
+
+Postres:
+
+- Brownie con Helado
+- Melón o Sandia
+- Sorbete
+- Macedonia de frutas con yougurt
+
 
