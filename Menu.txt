@@ -12,6 +12,10 @@ Primeros:
 -Gambas al ajillo
 -Ensalada de Atún
 
+Segundo Plato:
+- Atún en salsa a la portuguesa
+- Bacalao con papas arrugadas
+- Dorada a la plancha
 
 Bebidas:
 
@@ -27,3 +31,4 @@ Postres:
 - Melón o Sandia
 - Sorbete
 - Macedonia de frutas con yougurt
+
